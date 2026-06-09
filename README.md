@@ -20,5 +20,5 @@ A web application that visualizes sorting algorithms through animated bars.
 ## Author
 Prabal Pratik Singh
 
-## GitHub Repository
-https://github.com/Prabal-pratik-singh/Sorting-algorithm-visualizer
+ACCESS THE PROJECT USING LINK BELOW
+https://prabal-pratik-singh.github.io/Sorting-algorithm-visualizer/
